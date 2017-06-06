@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RegistoAtividade()
+comment1.params=usr
+comment1.target=RegistoAtividade(Utilizador)
+comment2.params=ra
+comment2.target=RegistoAtividade(RegistoAtividade)
+comment3.params=
+comment3.target=Utilizador\ getUtilizadorRA()
+comment4.params=usr
+comment4.target=void\ setUtilizadorRA(Utilizador)
+comment5.params=o
+comment5.target=boolean\ equals(java.lang.Object)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=
+comment7.target=RegistoAtividade\ clone()
+numComments=8

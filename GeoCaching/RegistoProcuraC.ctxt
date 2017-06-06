@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RegistoProcuraC()
+comment1.params=usr\ c
+comment1.target=RegistoProcuraC(Utilizador,\ CacheAtiva)
+comment2.params=rpc
+comment2.target=RegistoProcuraC(RegistoProcuraC)
+comment3.params=
+comment3.target=CacheAtiva\ getCacheProcuradaRPC()
+comment4.params=c
+comment4.target=void\ setCacheProcuradaRPC(CacheAtiva)
+comment5.params=o
+comment5.target=boolean\ equals(java.lang.Object)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=
+comment7.target=RegistoProcuraC\ clone()
+numComments=8

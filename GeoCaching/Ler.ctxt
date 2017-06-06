@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ texto()
+comment1.params=
+comment1.target=int\ inteiro()
+comment2.params=
+comment2.target=double\ real()
+comment3.params=
+comment3.target=double\ latitude()
+comment4.params=
+comment4.target=double\ longitude()
+comment5.params=
+comment5.target=java.lang.String\ simNao()
+numComments=6

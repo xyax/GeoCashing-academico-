@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Micro_Cache()
+comment1.params=n\ dono\ local\ x\ desc\ t\ ace\ p\ ap\ pistas\ g\ tm\ tam
+comment1.target=Micro_Cache(java.lang.String,\ java.lang.String,\ java.lang.String,\ GPS,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.util.GregorianCalendar,\ int,\ double)
+comment2.params=a
+comment2.target=Micro_Cache(Micro_Cache)
+comment3.params=
+comment3.target=double\ getTamanho()
+comment4.params=tam
+comment4.target=void\ setTamanho(double)
+comment5.params=o
+comment5.target=boolean\ equals(java.lang.Object)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=
+comment7.target=Micro_Cache\ clone()
+comment8.params=
+comment8.target=void\ calculaPontuacao()
+comment9.params=
+comment9.target=void\ calculaDificuldade()
+numComments=10

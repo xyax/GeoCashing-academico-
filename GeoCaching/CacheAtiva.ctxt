@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CacheAtiva()
+comment1.params=ca
+comment1.target=CacheAtiva(CacheAtiva)
+comment10.params=o
+comment10.target=boolean\ equals(java.lang.Object)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=coords\ dIni\ c
+comment2.target=CacheAtiva(GPS,\ java.util.GregorianCalendar,\ Clima)
+comment3.params=
+comment3.target=GPS\ getCoordenadas()
+comment4.params=
+comment4.target=java.util.GregorianCalendar\ getDataInicio()
+comment5.params=
+comment5.target=Clima\ getClimaCA()
+comment6.params=coords
+comment6.target=void\ setCoordenadas(GPS)
+comment7.params=
+comment7.target=void\ setDataInicio()
+comment8.params=c
+comment8.target=void\ setClimaCA(Clima)
+comment9.params=
+comment9.target=CacheAtiva\ clone()
+numComments=12
